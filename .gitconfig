@@ -1,0 +1,5 @@
+[user]
+	name = Brandon D
+	email = entertainment@brandongrows.me
+[core]
+	editor = /usr/bin/nvim

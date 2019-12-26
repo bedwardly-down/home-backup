@@ -1,0 +1,22 @@
+{
+  "lists": {
+    "%2Fmnt%2Fc%2FUsers%2Fjusta%2Fgit%2FC%2B%2B-Fundamentals%2FChap2": [
+      "ext"
+    ]
+  },
+  "extensions": {
+    "%2Fmnt%2Fc%2FUsers%2Fjusta%2Fgit%2FC%2B%2B-Fundamentals%2FChap2": [
+      ":q"
+    ]
+  },
+  "marketplace": {
+    "%2Fmnt%2Fc%2FUsers%2Fjusta%2Fgit%2FC%2B%2B-Fundamentals%2FChap2": [
+      "C++"
+    ]
+  },
+  "commands": {
+    "%2Fmnt%2Fc%2FUsers%2Fjusta%2Fgit%2FC%2B%2B-Fundamentals%2FChap2": [
+      ":q"
+    ]
+  }
+}

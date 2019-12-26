@@ -1,0 +1,6 @@
+[submodule ".cache/dein/repos/github.com/Shougo/dein.vim"]
+	path = .cache/dein/repos/github.com/Shougo/dein.vim
+	url = https://github.com/Shougo/dein.vim.git
+[submodule ".local/share/omf"]
+	path = .local/share/omf
+	url = https://github.com/oh-my-fish/oh-my-fish.git

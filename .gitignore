@@ -1,0 +1,10 @@
+/git/
+/.npm/
+/.ssh/
+/.cache/omf/
+/.cache/dein/
+/.cache/go-build/
+/.cache/yarn/
+/.cache/yay/
+/.elinks/
+/.local/share/
